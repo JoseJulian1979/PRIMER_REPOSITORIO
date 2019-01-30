@@ -1,3 +1,2 @@
 # PRIMER_REPOSITORIO
-Primer repositorio de prueba
-Estoy haciendo la edicion sobre la RAMA SEGUNDA, lo que hay encima es lo que hbia en la rama Master
+este es el primer repositorio, y estoy en la rama master
